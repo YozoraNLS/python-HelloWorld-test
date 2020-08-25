@@ -4,7 +4,7 @@ def main(msg):
 
     #different command
 
-    #Print a msg
+    #Print a msgasdf
 	
 
     print(msg)
